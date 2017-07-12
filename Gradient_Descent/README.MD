@@ -9,11 +9,9 @@ Only using first 10000 data points, can use whole data points but take longer ti
 price = m*mass + b (m: slope, b: bias)
 
 ### Requirement:
-*Numpy
-
-*Pandas
-
-*matplotlib
+* Numpy
+* Pandas
+* matplotlib
 
 
 ### Run code
