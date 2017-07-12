@@ -10,18 +10,20 @@ price = m*mass + b (m: slope, b: bias)
 
 ### Requirement:
 *Numpy
+
 *Pandas
+
 *matplotlib
 
 
-
+### Run code
 ```
 python SGD_2D.py
 ```
 
 
 ### The fit line after gradient descent
-![Image of fit line](https://github.com/GaryLMS/The_math_of_intelligence/tree/master/Gradient_Descent/image/fit_line.png)
+![Image of fit line](https://github.com/GaryLMS/The_math_of_intelligence/blob/master/Gradient_Descent/image/fit_line.png)
 
 ### The error surface with parameter m and b
-![Image of Error surface](https://github.com/GaryLMS/The_math_of_intelligence/tree/master/Gradient_Descent/image/Error_surface.png)
+![Image of Error surface](https://github.com/GaryLMS/The_math_of_intelligence/blob/master/Gradient_Descent/image/Error_surface.png)
