@@ -6,7 +6,7 @@ The dataset is download from Kaggle. Here is the [link](https://www.kaggle.com/s
 Only using first 10000 data points, can use whole data points but take longer time
 You can adjust the iteration_count to any number, default is 2000
 2-D regression, find the relation between x_length and price
-price = m*mass + b (m: slope, b: bias)
+price = m*x_length + b (m: slope, b: bias)
 
 ### Requirement:
 * Numpy
