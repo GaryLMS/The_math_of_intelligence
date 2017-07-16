@@ -4,8 +4,8 @@ Implement Gradient Descent and plot the error surface
 The dataset is download from Kaggle. Here is the [link](https://www.kaggle.com/shivam2503/diamonds)
 
 Only using first 10000 data points, can use whole data points but take longer time
-
-2-D regression, find the relation between mass and price
+You can adjust the iteration_count to any number, default is 2000
+2-D regression, find the relation between x_length and price
 price = m*mass + b (m: slope, b: bias)
 
 ### Requirement:
